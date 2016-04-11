@@ -1,0 +1,48 @@
+
+/*Final Project - INP 150 - Alison Summerford 04/27/13*/
+
+body {background: #c7eb6e url(images/bamboo9.jpg); font: bolder 12px geneva, arial, verdana, lucida, sans-serif;}
+
+
+/*table background*/
+.background1 {background: #e5e5e5; font-size:20px; color: #444041;}
+
+/*navigation background*/
+.background2 {background: #444041; font-size:16px; color: #e5e5e5; text-align:center; border: solid 2px #0a0a0a;}
+
+/*side navigation*/
+.box2 {width:15%}
+
+/*top navigation*/
+.padding  td{padding: 15px;}
+.twidth {width:80%; margin:40px;}
+
+
+/*images and backgrounds*/
+.title {text-align: right;}
+.background3 {background: #e5e5e5 url(images/panda8.jpg) no-repeat; font-size:25px; color: #444041;  width:95%; height:250px; margin:20px; padding-right:15px;}
+.background4 {background: #e5e5e5 url(images/panda5.jpg) no-repeat center; color: #444041; border: solid 3px #444041; width: 90%; height:100px; padding: 0px; margin: 20px; text-align: right;}
+.background5 {background: #e5e5e5 url(images/panda200.jpg) no-repeat center; width:40%;}
+.pic1 {background: #e5e5e5 url(images/panda26.jpeg) no-repeat center; height: 500px; width: 40%; font-size:20px; }
+.pic2  {background: #e5e5e5 url(images/panda92.jpeg) no-repeat center; height: 500px; width: 40%; font-size:20px; }
+.box{width:40%; text-align: center;}
+
+
+/*navigation link styles*/
+a.nav:link {color: #e5e5e5; text-decoration: none;}
+a.nav:visited, a.nav:hover, a.nav:focus, a.nav:active {color: #fff; text-decoration: none;}
+
+
+/*page link styles*/
+a:link {color: #0a0a0a; text-decoration: underline;}
+a:visited, a:hover, a:focus, a:active {color: #0a0a0a; text-decoration: underline;}
+
+
+/*liststyles*/
+li {font-size:20px; color: #444041;}
+.listimg4 {list-style: disc url(images/bamboo.jpg);}
+.listimg3 {list-style: disc url(images/panda18.jpg);}
+.listimg2{list-style: disc url(images/panda400.jpg);}
+.listimg1{list-style: disc url(images/panda16.jpg);}
+.listimg {list-style: disc url(images/panda99.jpg);}
+.liststyle{list-style: disc;}
